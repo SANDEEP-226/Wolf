@@ -1,0 +1,53 @@
+.NavBar{
+  background-color:cyan;
+  padding: 15px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Logo{
+  padding-right: 50%;
+}
+ul{
+  display: flex;
+}
+ul li {
+  
+  list-style-type: none;
+}
+ul li :link{
+  text-decoration: none;
+  padding: 0px 20px;
+}
+.info {
+  align-items: center;
+  justify-content: center;
+  padding-left: 40%;
+}
+img {
+  width: 70px;
+  height: 70px;
+}
+.HomeImg {
+   align-items: center;
+   justify-content: center;
+}
+.HomeImg h1 {
+  align-items: center;
+  justify-content: center;
+  padding-left: 40%;
+}
+.HomeImg img {
+  padding-left: 20%;
+  width: 60%;
+  height: 300px;
+}
+.AboutImg {
+  display: flex;
+  padding-right: 40px;
+}
+.AboutImg img{
+  width: 30%;
+  height: 250px;
+  padding: 50px;
+}
